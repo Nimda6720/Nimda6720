@@ -4,13 +4,14 @@
 
 **ECE Student @ RUET** · Building things for the web and beyond.
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Live%20Project-Campus%20Connect-1db954?style=for-the-badge)](https://campus-connect-frontend-delta.vercel.app)
+[![Campus Connect](https://img.shields.io/badge/🚀%20Campus%20Connect-1db954?style=for-the-badge)](https://campus-connect-frontend-delta.vercel.app)
+[![Semester Survivor](https://img.shields.io/badge/🎮%20Play%20Survivor-4CAF50?style=for-the-badge)](https://nimda6720.github.io/Semester_Survivor_Simulator/)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🎓 [Campus Connect](https://github.com/Nimda6720/campus-connect-frontend)
 > A full-stack student meetup platform for RUET — find study groups, gaming squads & campus events.
@@ -21,6 +22,13 @@
 |------|------|
 | [campus-connect-frontend](https://github.com/Nimda6720/campus-connect-frontend) | React SPA — dark UI, auth, meetup cards, chat |
 | [campus-connect-backend](https://github.com/Nimda6720/campus-connect-backend) | REST API — Express + MongoDB + JWT + Multer |
+
+<br>
+
+### 🎮 [Semester Survivor Simulator](https://github.com/Nimda6720/Semester_Survivor_Simulator)
+> A retro terminal-style browser game. Balance academics, energy, sports, and social life to survive the university semester.
+
+**Stack:** HTML5 · CSS3 · Vanilla JavaScript
 
 ---
 
