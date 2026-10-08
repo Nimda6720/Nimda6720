@@ -2,7 +2,7 @@
 
 # Hey, I'm Siam 👋
 
-**ECE Student @ RUET** · Building things for the web and beyond.
+**CSAI Student @ LUT** · Building things for the web and beyond.
 
 [![Campus Connect](https://img.shields.io/badge/🚀%20Campus%20Connect-1db954?style=for-the-badge)](https://campus-connect-frontend-delta.vercel.app)
 [![Semester Survivor](https://img.shields.io/badge/🎮%20Play%20Survivor-4CAF50?style=for-the-badge)](https://nimda6720.github.io/Semester_Survivor_Simulator/)
