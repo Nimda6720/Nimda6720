@@ -2,7 +2,7 @@
 
 # Hey, I'm Siam 👋
 
-**CSAI Student @ LUT** · Building things for the web and beyond.
+**ECE Student @ RUET** · Building things for the web and beyond.
 
 [![Campus Connect](https://img.shields.io/badge/🚀%20Campus%20Connect-1db954?style=for-the-badge)](https://campus-connect-frontend-delta.vercel.app)
 [![Semester Survivor](https://img.shields.io/badge/🎮%20Play%20Survivor-4CAF50?style=for-the-badge)](https://nimda6720.github.io/Semester_Survivor_Simulator/)
@@ -30,6 +30,13 @@
 
 **Stack:** HTML5 · CSS3 · Vanilla JavaScript
 
+<br>
+
+### ⚡️ [SplitWatts](https://github.com/Nimda6720/SplitWatts)
+> A sleek Python desktop app built to fairly split tiered electricity bills with a roommate who refuses to use the AC. 🥶
+
+**Stack:** Python · CustomTkinter
+
 ---
 
 ## 🛠️ Tech I Work With
@@ -38,6 +45,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
 
@@ -72,5 +80,5 @@
 ---
 
 <div align="center">
-  <em>"Inventing fun while having fun."</em>
+  <em>"Build something people actually want to use."</em>
 </div>
