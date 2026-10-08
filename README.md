@@ -72,5 +72,5 @@
 ---
 
 <div align="center">
-  <em>"Build something people actually want to use."</em>
+  <em>"Inventing fun while having fun."</em>
 </div>
