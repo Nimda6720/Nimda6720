@@ -80,5 +80,5 @@
 ---
 
 <div align="center">
-  <em>"Build something people actually want to use."</em>
+  <em>"Innovating fun while having fun."</em>
 </div>
