@@ -32,10 +32,25 @@
 
 <br>
 
+### 🤖 [Obstacle-Avoiding Wi-Fi Rover](https://github.com/SaltyBlackDog300/AsianBros_-ObstaclesDectection)
+> An autonomous 2WD rover built at the LUTES Deep Tech Hackathon 2026. Features ultrasonic obstacle detection, intelligent navigation, Wi-Fi remote control, live radar visualization, and voice commands.
+
+**Stack:** Arduino UNO R4 WiFi · C++ · HTML · CSS · JavaScript · Ultrasonic Sensors · OpenSCAD
+
+**Role:** Team Project · Hardware Assembly · Circuit Wiring · 3D Printing
+
+<br>
+
 ### ⚡️ [SplitWatts](https://github.com/Nimda6720/SplitWatts)
 > A sleek Python desktop app built to fairly split tiered electricity bills with a roommate who refuses to use the AC. 🥶
 
 **Stack:** Python · CustomTkinter
+
+<br>
+
+
+
+
 
 ---
 
