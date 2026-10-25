@@ -13,6 +13,16 @@
 
 ## 🚀 Featured Projects
 
+
+### 🎬 [Frameprint — Your Cinematic DNA](https://github.com/Nimda6720/frameprint)
+> A privacy-first movie analytics platform that transforms Letterboxd & IMDb watch histories into interactive dashboards, film statistics, cast & crew insights, and personalized Movie Wrapped summaries.
+
+**Stack:** React 19 · TypeScript · Vite · Cloudflare Workers · TMDB API · GitHub Pages
+
+**Live Website:** [frameprint](https://nimda6720.github.io/frameprint/) · **Repository:** [GitHub](https://github.com/Nimda6720/frameprint)
+
+<br>
+
 ### 🎓 [Campus Connect](https://github.com/Nimda6720/campus-connect-frontend)
 > A full-stack student meetup platform for RUET — find study groups, gaming squads & campus events.
 
