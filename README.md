@@ -14,7 +14,7 @@
 ## 🚀 Featured Projects
 
 
-### 🎬 [Frameprint — Your Cinematic DNA](https://github.com/Nimda6720/frameprint)
+### 🎬 [Frameprint](https://github.com/Nimda6720/frameprint)
 > A privacy-first movie analytics platform that transforms Letterboxd & IMDb watch histories into interactive dashboards, film statistics, cast & crew insights, and personalized Movie Wrapped summaries.
 
 **Stack:** React 19 · TypeScript · Vite · Cloudflare Workers · TMDB API · GitHub Pages
