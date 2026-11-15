@@ -23,6 +23,15 @@
 
 <br>
 
+### 💳 [Kassara](https://github.com/SaltyBlackDog300/HIJASI)
+> A closed-loop wallet API for businesses in regions underserved by Stripe and PayPal, built at the Oslo Sprint Hackathon 2026. Features an append-only ledger, email-OTP checkout confirmation, HMAC-signed webhooks, idempotency, and merchant verification.
+
+**Stack:** Python · Flask · MySQL · SQLAlchemy · HTML · CSS · JavaScript · Stripe API · Docker
+
+**Live Website:** [kassara.org](https://kassara.org) · **Demo Shop:** [demo.kassara.org](https://demo.kassara.org) · **Repository:** [GitHub](https://github.com/SaltyBlackDog300/HIJASI)
+
+<br>
+
 ### 🎓 [Campus Connect](https://github.com/Nimda6720/campus-connect-frontend)
 > A full-stack student meetup platform for RUET — find study groups, gaming squads & campus events.
 
