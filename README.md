@@ -4,10 +4,11 @@
 
 **CSAI Student @ LUT** · Building things for the web and beyond.
 
-[![Campus Connect](https://img.shields.io/badge/🚀%20Campus%20Connect-1db954?style=for-the-badge)](https://campus-connect-frontend-delta.vercel.app)
-[![Semester Survivor](https://img.shields.io/badge/🎮%20Play%20Survivor-4CAF50?style=for-the-badge)](https://nimda6720.github.io/Semester_Survivor_Simulator/)
 [![Frameprint](https://img.shields.io/badge/🎬%20Frameprint-E50914?style=for-the-badge)](https://nimda6720.github.io/frameprint/)
 [![Kassara](https://img.shields.io/badge/💳%20Kassara-0EA5E9?style=for-the-badge)](https://kassara.org)
+[![Campus Connect](https://img.shields.io/badge/🚀%20Campus%20Connect-1db954?style=for-the-badge)](https://campus-connect-frontend-delta.vercel.app)
+[![Semester Survivor](https://img.shields.io/badge/🎮%20Play%20Survivor-4CAF50?style=for-the-badge)](https://nimda6720.github.io/Semester_Survivor_Simulator/)
+
 
 </div>
 
